@@ -1,4 +1,4 @@
-package dev.olog.first
+package dev.olog.nested.first
 
 import org.junit.Test
 

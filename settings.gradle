@@ -16,3 +16,5 @@ rootProject.name = "Kover testing"
 include ':app'
 include ':feature:first'
 include ':feature:second'
+include ':feature:nested:first'
+include ':feature:nested:second'
