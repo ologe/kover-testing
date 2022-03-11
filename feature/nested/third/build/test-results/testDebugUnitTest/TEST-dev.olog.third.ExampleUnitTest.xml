@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.olog.third.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-11T10:27:48" hostname="eugeniuolog-MacBook-Pro" time="0.001">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="dev.olog.third.ExampleUnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

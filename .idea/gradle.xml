@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/feature/nested" />
             <option value="$PROJECT_DIR$/feature/nested/first" />
             <option value="$PROJECT_DIR$/feature/nested/second" />
+            <option value="$PROJECT_DIR$/feature/nested/third" />
             <option value="$PROJECT_DIR$/feature/second" />
           </set>
         </option>

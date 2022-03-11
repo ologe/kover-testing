@@ -1,0 +1,8 @@
+/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/build/kover/testDebugUnitTest.ic
+false
+false
+true
+false
+-exclude
+android\..*
+com\.android\..*

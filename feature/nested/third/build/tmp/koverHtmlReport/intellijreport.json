@@ -1,0 +1,20 @@
+{
+  "reports": [ 
+        {"ic": "/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/build/kover/testDebugUnitTest.ic"},
+        {"ic": "/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/build/kover/testReleaseUnitTest.ic"}
+    ], 
+  "html": "/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/build/reports/kover/project-html",
+  "modules": [
+    {
+      "output": [
+        "/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/build/tmp/kotlin-classes/debug",
+        "/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/build/intermediates/javac/debug/classes",
+        "/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/build/intermediates/javac/release/classes",
+        "/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/build/tmp/kotlin-classes/release"
+      ],
+      "sources": [
+        "/Users/eugeniu.olog/AndroidStudioProjects/Kovertesting/feature/nested/third/src/main/java"
+      ]
+    }
+  ]
+}
