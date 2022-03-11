@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Kover testing"
 include ':app'
+include ':feature:first'
+include ':feature:second'
